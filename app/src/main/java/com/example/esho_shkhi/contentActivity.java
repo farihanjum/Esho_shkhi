@@ -20,9 +20,9 @@ public class contentActivity extends AppCompatActivity {
 
     ListView contentsListView;
 
-    String[] contentGula = {" স্বরবর্ণ "," ব্যঞ্জনবর্ণ "," চলো শিখি  "," Capital letter "," Small letter "," স্বরচিহ্ন  "," সংখ্যা  "," Numbers "};
+    String[] contentGula = {" স্বরবর্ণ "," ব্যঞ্জনবর্ণ "," চলো শিখি  "," নতুন কিছু জানি "," Small letter "," স্বরচিহ্ন  "," সংখ্যা  "," Numbers "};
 
-    int[] imageGula={R.drawable.v1,R.drawable.c_1,R.drawable.cholo_shikhi_pic,R.drawable.capital_a_for_contents,R.drawable.small_a_for_contents,R.drawable.aaa_kar_for_contents,R.drawable.ek_for_contents,R.drawable.one_for_contents};
+    int[] imageGula={R.drawable.v1,R.drawable.c_1,R.drawable.cholo_shikhi_pic,R.drawable.white_back,R.drawable.small_a_for_contents,R.drawable.aaa_kar_for_contents,R.drawable.ek_for_contents,R.drawable.one_for_contents};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

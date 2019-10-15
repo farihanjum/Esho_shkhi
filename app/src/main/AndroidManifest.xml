@@ -12,7 +12,7 @@
         <activity
             android:name=".content_3"
             android:label="@string/title_activity_content_3"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".content_2" />
         <activity android:name=".content_1" />
         <activity android:name=".contentActivity" />
