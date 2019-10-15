@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".content_4"></activity>
         <activity
             android:name=".content_3"
             android:label="@string/title_activity_content_3"
